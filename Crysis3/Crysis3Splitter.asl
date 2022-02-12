@@ -64,21 +64,21 @@ isLoading
 	{
 		if (current.bypassSkip != 257 & current.bCinematics == 1 || current.bCinematics == 2 || current.bCinematics == 1 & current.mission=="canyon" || current.bCinematics == 1 & current.mission=="swamp") 
 		{
-		print ("Cinematics Removed");
+			print ("Cinematics Removed");
 			return true;
 		}
 	}
 	if (settings["loadremover"]) {
 		if (current.bLoading == 1)
 		{
-	//		print ("Loading Removed");
+			print ("Loading Removed");
 			return true;
 		}
 	}	
 	if (settings["pauseremover"]) {
 		if (current.bPause == 1)
 		{
-		//	print ("Pause Removed");
+			print ("Pause Removed");
 			return true;
 		}
 	}
