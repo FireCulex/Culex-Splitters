@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Crysis</GameName>
+  <CategoryName>Glitchless</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/12/2022 11:21:35" isStartedSynced="True" ended="02/12/2022 13:50:35" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Contact</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:23.9890000</RealTime>
+        <GameTime>00:06:19.0040000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:23.9890000</RealTime>
+          <GameTime>00:06:19.0040000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Recovery</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:47.9930000</RealTime>
+        <GameTime>00:07:01.9940000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:47.9930000</RealTime>
+          <GameTime>00:07:01.9940000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Relic</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:38.9880000</RealTime>
+        <GameTime>00:15:40.9930000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:19:38.9880000</RealTime>
+          <GameTime>00:15:40.9930000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Assault</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:57.0690000</RealTime>
+        <GameTime>00:10:54.9940000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:57.0690000</RealTime>
+          <GameTime>00:10:54.9940000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Onslaught</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:42.9970000</RealTime>
+        <GameTime>00:06:25.9960000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:42.9970000</RealTime>
+          <GameTime>00:06:25.9960000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Awakening</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:23.9860000</RealTime>
+        <GameTime>00:15:07.9880000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:20:23.9860000</RealTime>
+          <GameTime>00:15:07.9880000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Core</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:01.9850000</RealTime>
+        <GameTime>00:16:14.9860000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:17:01.9850000</RealTime>
+          <GameTime>00:16:14.9860000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Paradise Lost</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:32.9940000</RealTime>
+        <GameTime>00:05:27.9990000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:32.9940000</RealTime>
+          <GameTime>00:05:27.9990000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Exodus</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:13.9910000</RealTime>
+        <GameTime>00:11:03.9900000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:13.9910000</RealTime>
+          <GameTime>00:11:03.9900000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ascension</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:30.9960000</RealTime>
+        <GameTime>00:07:38.9930000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:30.9960000</RealTime>
+          <GameTime>00:07:38.9930000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Reckoning</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
