@@ -11,7 +11,7 @@ state("CrysisRemastered")
 
 init
 {
-    refreshRate = 1;
+//    refreshRate = 1; // verify debug msgs
 	vars.split = 0;
 }
 
@@ -63,7 +63,7 @@ isLoading
 
 	if (settings["cinematicsremover"]) 
 	{
-		if (current.bSkip == true)
+		if (current.bSkip == true & current.mission!="rescue")
 		{
 			print ("Skip removed");
 			return true;
