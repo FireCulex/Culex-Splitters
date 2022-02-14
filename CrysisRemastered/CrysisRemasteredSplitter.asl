@@ -2,7 +2,7 @@ state("CrysisRemastered")
 {
 	bool bSkip: "CrysisRemastered.exe", 0x23FA7E0, 0x598, 0x8; // skip cut-scenes where you can't move
 	bool bCinematics: "CrysisRemastered.exe", 0x23FA7E0, 0x5F8, 0x8; // Cinematics, overlaps with Loading Screens?
-	string23 mission : "CrysisRemastered.exe",  0x7F796F0, 0x50, 0x34; // Level
+	string23 mission : "CrysisRemastered.exe", 0x7DE8560, 0x100, 0x20, 0x48, 0x10, 0x34; // Level
 	byte bLoading : "CrysisRemastered.exe", 0x7E93BC0, 0x18, 0xB90, 0x18, 0x0; // Loading screens
 	byte bPause: "CrysisRemastered.exe", 0x7F5E820, 0x10, 0x78, 0x730, 0x38, 0xFD4; // Pause
 	byte bStart: "CrysisRemastered.exe", 0x7EEFBD8, 0x80, 0x30, 0x15D8;
